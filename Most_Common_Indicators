@@ -1,0 +1,59 @@
+MOST COMMON INDICATORS / 
+INDICES TO TAKE INTO ACCOUNT
+(PRIORITIZED)
+
+Financial Soundness Index
+
+Liquidity Ratio = liquid assets/liabilities
+http://data.worldbank.org/indicator/FD.RES.LIQU.AS.ZS?locations=US
+
+Non-Performing Loans / Total Loans 
+http://data.worldbank.org/indicator/FB.AST.NPER.ZS?locations=US
+
+Z- Score = the number of standard deviations from the mean 
+Capital / Assets
+http://data.worldbank.org/indicator/FB.BNK.CAPA.ZS?locations=US
+
+Household Debt / GDP
+
+Real Estate Prices
+http://www.realtytrac.com/statsandtrends/markettrends
+
+
+
+Financial Development Index = means and benchmarks to gauge each country’s financial development (annual)
+
+GDP Growth Rate = change in value of total economic output 
+https://www.ceicdata.com/en/indicator/united-states/real-gdp-growth
+https://www.ceicdata.com/en/indicator/united-states/nominal-gdp-growth
+
+GDP per Capita Growth Rate?
+https://www.ceicdata.com/en/indicator/united-states/forecast-gdp-ppp-per-capita
+
+Total Debt to Equity = liabilities / stockholder's share price
+https://fred.stlouisfed.org/series/TOTDTEUSQ163N 
+
+Return on Equity = money made per money of stockholder share price
+https://fred.stlouisfed.org/series/USROE
+
+Return on Assets = income / assets 
+https://fred.stlouisfed.org/series/USROA
+
+
+
+Financial Vulnerability Index = how likely resilience to a financial shock is 
+
+Capital Adequacy Ratio = bank capital / weighted credit 
+https://www5.fdic.gov/hsob/HSOBRpt.asp
+
+Inflation Rate = rise of general price of things
+http://usinflation.org/us-inflation-rate/
+https://tradingeconomics.com/united-states/inflation-cpi
+
+
+
+World Economic Index = drivers of different world economies 
+
+GDP Growth Rate
+data.worldbank.org/indicator/NY.GDP.MKTP.KD.ZG
+
